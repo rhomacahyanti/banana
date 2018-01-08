@@ -1,0 +1,22 @@
+body {
+    background-color: grey !important;
+}
+
+.bg-light {
+    background-color: #41B548 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.btn-outline-success {
+    color: #ffffff;
+    background-color: transparent;
+    background-image: none;
+    border-color: #ffffff;
+}
